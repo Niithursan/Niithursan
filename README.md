@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithursan!</h1>
 <h3 align="center">Here you'll find all my schoolwork alongside projects that I have made or contributed to! Enjoy :)</h3>
 
-- 👨‍💻 All of my projects are available at [https://nithursan.netlify.app/](https://nithursan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
