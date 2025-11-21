@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nithursan!</h1>
-<h3 align="center">Here you'll find all my schoolwork alongside projects that I have made or contributed to! Enjoy :)</h3>
+<h1 align="center">Hi 👋, I'm Nithursan</h1>
+<h3 align="center">Here you'll find all my schoolwork alongside projects that I have made or contributed to.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
