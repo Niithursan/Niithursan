@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/nithursanj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Toronto,_ON-30363d?style=flat-square" alt="Toronto, ON"/>
